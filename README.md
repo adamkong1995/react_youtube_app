@@ -1,6 +1,6 @@
 # React Youtube App
 
-<img src='./public/website_pic.png' height="400px" width="700px" />
+<img src='https://github.com/adamkong1995/react_youtube_app/blob/master/public/website_pic.PNG' height="400px" width="700px" />
 
 To Run the app
 
